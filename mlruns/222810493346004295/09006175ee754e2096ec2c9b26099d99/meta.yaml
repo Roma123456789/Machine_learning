@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/igor/mlopssir/mlruns/222810493346004295/09006175ee754e2096ec2c9b26099d99/artifacts
+end_time: 1735793529434
+entry_point_name: ''
+experiment_id: '222810493346004295'
+lifecycle_stage: active
+run_id: 09006175ee754e2096ec2c9b26099d99
+run_name: regression
+run_uuid: 09006175ee754e2096ec2c9b26099d99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735793525117
+status: 3
+tags: []
+user_id: igor

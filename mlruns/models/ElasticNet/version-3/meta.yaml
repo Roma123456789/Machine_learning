@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735793529404
+current_stage: None
+description: null
+last_updated_timestamp: 1735793529404
+name: ElasticNet
+run_id: 09006175ee754e2096ec2c9b26099d99
+run_link: null
+source: file:///C:/Users/igor/mlopssir/mlruns/222810493346004295/09006175ee754e2096ec2c9b26099d99/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/igor/mlopssir/mlruns/222810493346004295/09006175ee754e2096ec2c9b26099d99/artifacts/model
+user_id: null
+version: 3
